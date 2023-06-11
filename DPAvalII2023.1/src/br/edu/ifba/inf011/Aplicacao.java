@@ -14,6 +14,7 @@ public class Aplicacao {
 		ResourceLoader.DIR_NAME = "D:\\workspace\\DPAvalII2023.1\\src\\br\\edu\\ifba\\inf011\\model\\resources\\data\\";
 
 		Musica musica = new MusicaNotas("GodSaveTheQueen");
+
 		System.out.println(musica.execute());
 
 	}
